@@ -3,5 +3,7 @@
   "menu-profile" : "Profile ES TRANS",
   "button-save" : "Save ES TRANS",
   "button-cancel" : "Cancel ES TRANS",
-  "message-welcome" : "Welcome to super app! ES TRANS"
+  "message-welcome" : "Welcome to super app! ES TRANS",
+  "delete" : "Delete ES TRANS",
+  "confirm" : "Are you sure? ES TRANS"
 }
