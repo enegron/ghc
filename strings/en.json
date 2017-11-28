@@ -6,4 +6,5 @@
   "message-welcome" : "Welcome to super app!",
   "delete" : "Delete",
   "confirm" : "Are you sure?"
+  "welcome" : "Welcome back, ~~name~~"
 }
