@@ -5,6 +5,6 @@
   "button-cancel" : "Cancel",
   "message-welcome" : "Welcome to super app!",
   "delete" : "Delete",
-  "confirm" : "Are you sure?"
+  "confirm" : "Are you sure?",
   "welcome" : "Welcome back, ~~name~~"
 }
