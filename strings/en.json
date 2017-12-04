@@ -6,5 +6,6 @@
   "message-welcome" : "Welcome to super app!",
   "delete" : "Delete",
   "confirm" : "Are you sure?",
+  "test1" : "string added directly to master",
   "welcome" : "Welcome back, ~~name~~"
 }
