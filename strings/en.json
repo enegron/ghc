@@ -9,5 +9,6 @@
   "test1" : "string added directly to master",
   "test2" : "string added in branch after string added directly to master",
   "test3" : "string added in new branch",
+  "test4" : "string added to 1204A",
   "welcome" : "Welcome back, ~~name~~"
 }
