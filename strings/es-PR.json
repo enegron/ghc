@@ -1,0 +1,19 @@
+{
+  "menu-settings" : "Settings ES ",
+  "menu-profile" : "Profile ES",
+  "button-save" : "Save ES",
+  "button-cancel" : "Cancel ES",
+  "message-welcome" : "Welcome to super app! ES",
+  "delete" : "Delete ES TRANS",
+  "confirm" : "Are you sure? ES TRANS V3",
+  "test1" : "string added directly to master ES",
+  "test2" : "string added in branch after string added directly to master ES",
+  "test3" : "string added in new branch ES",
+  "test4" : "string added to 1204A ES",
+  "welcome" : "Welcome back, ~~name~~ ES TRANS",
+  "1211A01" : "New string added ES",
+  "170126b1" : "New string added ES",
+  "170125b1" : "New string added ES",
+  "180129A" : "New string added in this branch ES",
+  "180131feature" : "this is string is for feature 180131A ES"
+}
